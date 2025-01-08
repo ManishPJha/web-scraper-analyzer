@@ -1,0 +1,10 @@
+# scraped data
+scraped_data.db
+scraped_data.json
+scraped_data.csv
+
+# cache data
+__pycache__
+
+# environment variables
+.env.*
